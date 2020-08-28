@@ -1,1 +1,1 @@
-These are projects written in ReactJS, and Node-Postgres
+This is a project written in ReactJS, and Node-Postgres. To run the project on the local machine, when you are inside the first folder, you can open up a terminal and run $npm start. That will start up the server. Then, cd to client folder and open up a new terminal and run $npm start again. This will start up the client side. For API key, you may have to create your own key from https://www.edamam.com. For the database, we set it up on our local machine with Postgres.
